@@ -1,23 +1,19 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
+  "username": "chire888881",
+  "name": "Jerry Lin",
   "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
+    "https://github.com/chire-contirbution/profiles"    
   ],
   "background":[
-    "A graduate student from NTUT Interaction Design Dept",
-    "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
+    "Blockchain Ecosystem engineer",
+    "Javascript HTML1 CSS 1 year",
+    "Java 2 months"
   ],
   "interests":[
     "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
+    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)",
+    "Blockchain and Crypto Currencies knowledge"
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  "twitter": "",
+  "github": "https://github.com/chire-contirbution/profiles"
 }
